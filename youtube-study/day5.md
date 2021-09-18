@@ -97,3 +97,6 @@ public interface ArticleRepository extends CrudRepository<Article, Long> {
         return "";
  ```
  ## 결과값
+![image](https://user-images.githubusercontent.com/89372116/133885709-7e0615b3-2e46-4147-bc2c-86a9478ac2b7.png)
+![image](https://user-images.githubusercontent.com/89372116/133885728-dfc95034-918c-471d-b9e4-eb6f29086c97.png)
+
